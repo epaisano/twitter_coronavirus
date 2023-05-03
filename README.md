@@ -51,3 +51,11 @@ However, in this graph, we see that the tag was used about 500000 times less tha
 The tweets that used this tag were mostly in korean in the year 2020.
 The frequency at which tweets that used this tag were written in korean far exceeds any other language.
 In fact, it beats the runner up language, english, by about 200 tweets.
+
+## Task 4 Plots
+
+**Alternative Reduce Graph**
+<img src=altreduce.png width=100% />
+This graph shows us that amongst the hashtags seen in the legend, #corona was the most used in 2020 around mid-March.
+This makes sense, as we know the beginning of our lockdown period was March 12, 2020.
+Thus, we expect social media trended towards talk about coronavirus.
