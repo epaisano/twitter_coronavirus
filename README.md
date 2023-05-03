@@ -43,5 +43,8 @@ Further, this is also how the virus is spelled in spanish (represented by es for
 
 **Frequency of the #코로나바이러스 Usage by Country in 2020**
 <img src=covidmandfreqcountry2020.png width=100% />
-Similar to the usage of the tag #coronavirus, tweets containing the tag #코로나바이러스 were also mostly sent from
+Similar to the usage of the tag #coronavirus, tweets containing the tag #코로나바이러스 were also mostly sent from the United States, with Brazil as a runner up.
+However, in this graph, we see that the tag was used about 500000 times less than the #coronavirus tag was used. 
+
+**Frequency of the #코로나바이러스 Usage by Country in 2020**
 <img src=covidmandfreqlang2020.png width=100% />
