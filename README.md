@@ -31,8 +31,17 @@ It is a 3 step procedure consisting of the following:
 
 
 ## Task 3 Plots
-
+**Frequency of the #coronavirus Usage by Country in 2020**
 <img src=covidfreqcountry2020.png width=100% />
+Here, we see that amongst the top 10 countries that used the #coronavirus tag, the United States ranked at number one.
+In fact, it beats Brazil, the runner-up country to the US, by almost 3000000 times. 
+
+**Frequency of the #coronavirus Usage by Language in 2020**
 <img src=covidfreqlang2020.png width=100% />
+Of course, given that the tag is in english, we can expect for most of the tweets that used this tag were in english.
+Further, this is also how the virus is spelled in spanish (represented by es for español), thus explaining why the second language that used it most in 2020 is spanish. 
+
+**Frequency of the #코로나바이러스 Usage by Country in 2020**
 <img src=covidmandfreqcountry2020.png width=100% />
+Similar to the usage of the tag #coronavirus, tweets containing the tag #코로나바이러스 were also mostly sent from
 <img src=covidmandfreqlang2020.png width=100% />
